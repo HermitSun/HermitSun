@@ -6,7 +6,7 @@
 
 - Undergraduate of Nanjing University
 
-- Web front-end developer
+- Web front-end developer, using Vue.js & TypeScript
 
 - Research Interests: 
   - Software architecture
@@ -16,7 +16,11 @@
 
 ### Status
 
+#### General
+
 [![ReadMe Card](https://github-readme-stats.hermitsun.vercel.app/api?username=HermitSun&count_private=true&show_icons=true)]()
+
+#### Recent works
 
 <!--START_SECTION:waka-->
 ```text
