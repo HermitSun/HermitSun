@@ -11,10 +11,6 @@
 - Research Interests: 
   - Software architecture
   - Software process
-
-- Research Interests: 
-  - Software architecture
-  - Software process
   - Optimization
   - Front-End Engineering
 
