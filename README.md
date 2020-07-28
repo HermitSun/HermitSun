@@ -9,8 +9,8 @@
 - Web front-end developer, using Vue.js & TypeScript
 
 - Research Interests: 
-  - Software architecture
-  - Software process
+  - Software Architecture
+  - Software Process
   - Optimization
   - Front-End Engineering
 
