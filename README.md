@@ -1,4 +1,23 @@
+### Welcome!
+
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HermitSun.HermitSun)]() before you came here.
 
-[![ReadMe Card](https://github-readme-stats.hermitsun.vercel.app/api?username=HermitSun&count_private=true&show_icons=true)]()
+### Brief Introduction
 
+- Undergraduate of Nanjing University
+
+- Web front-end developer
+
+- Research Interests: 
+  - Software architecture
+  - Software process
+
+- Research Interests: 
+  - Software architecture
+  - Software process
+  - Optimization
+  - Front-End Engineering
+
+### Status
+
+[![ReadMe Card](https://github-readme-stats.hermitsun.vercel.app/api?username=HermitSun&count_private=true&show_icons=true)]()
