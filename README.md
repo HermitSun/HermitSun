@@ -6,7 +6,9 @@
 
 - Undergraduate of Nanjing University
 
-- Web front-end developer, using Vue.js & TypeScript
+- Used to be a web front-end developer, using Vue.js & TypeScript
+
+- Now working on anomaly detection & data provenance analysis
 
 - Research Interests: 
   - Software Architecture
@@ -20,7 +22,7 @@
 
 [![ReadMe Card](https://github-readme-stats.hermitsun.vercel.app/api?username=HermitSun&count_private=true&show_icons=true)]()
 
-#### Recent works
+#### Recent Works
 
 <!--START_SECTION:waka-->
 ```text
