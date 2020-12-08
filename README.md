@@ -26,10 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       21 hrs 29 mins  ██████████░░░░░░░░░░░░░░░   39.44 % 
-Vue.js       7 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-TypeScript   7 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Makefile     4 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-YAML         3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python       22 hrs 44 mins  █████████▒░░░░░░░░░░░░░░░   37.77 % 
+Makefile     11 hrs 3 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Vue.js       7 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+TypeScript   7 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+YAML         2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 <!--END_SECTION:waka-->
