@@ -10,12 +10,6 @@
 
 - Now working on anomaly detection & data provenance analysis
 
-- Research Interests: 
-  - Software Architecture
-  - Software Process
-  - Optimization
-  - Front-End Engineering
-
 ### Status
 
 #### General
