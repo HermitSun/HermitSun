@@ -20,10 +20,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       13 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.44 % 
-Vue.js       6 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-TypeScript   2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other        1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python       16 hrs 13 mins  ███████████████▓░░░░░░░░░   63.29 % 
+Vue.js       2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Other        2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+TypeScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
