@@ -4,11 +4,11 @@
 
 ### Brief Introduction
 
-- Undergraduate of Nanjing University
+- Postgraduate of Tsinghua University, working on data provenance analysis
 
-- Used to be a web front-end developer, using Vue.js & TypeScript
+- Graduated from Nanjing University with B.E.
 
-- Now working on anomaly detection & data provenance analysis
+- Used to be a web developer focusing on frontend
 
 ### Status
 
