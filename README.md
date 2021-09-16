@@ -20,6 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML         15 mins         ███████████████▒░░░░░░░░░   61.33 % 
+Python       7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.02 % 
+TOML         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 ```
 <!--END_SECTION:waka-->
