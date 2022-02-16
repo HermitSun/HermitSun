@@ -20,6 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 4 hrs 42 mins
+
 Python     1 hr 58 mins    ██████████▒░░░░░░░░░░░░░░   41.97 % 
 JSON       1 hr 38 mins    ████████▓░░░░░░░░░░░░░░░░   34.73 % 
 textmate   40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
