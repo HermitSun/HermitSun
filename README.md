@@ -21,12 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             2 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.50 %
-C++                2 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.71 %
-ObjectiveC         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-GitIgnore file     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-reStructuredText   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Markdown           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python             3 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.50 %
+C++                2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+ObjectiveC         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+GitIgnore file     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+reStructuredText   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Markdown           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
