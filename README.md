@@ -4,11 +4,11 @@
 
 ### Brief Introduction
 
-- Postgraduate of Tsinghua University, working on data provenance analysis
+- Postgraduate of Tsinghua University, working on data provenance
 
 - Graduated from Nanjing University with B.E.
 
-- Used to be a web developer focusing on frontend
+- Deep learning framwork, C++, Python, Vue.js
 
 ### Status
 
