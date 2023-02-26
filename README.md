@@ -21,7 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CMake   12 mins         ████████████████████████▓   98.94 %
+Bash    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
