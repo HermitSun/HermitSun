@@ -21,8 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-CMake    0 secs          ██████████████▓░░░░░░░░░░   59.10 %
-Python   0 secs          ██████████▒░░░░░░░░░░░░░░   40.90 %
+Vue.js                     1 hr 57 mins    █████████████▓░░░░░░░░░░░   54.15 %
+JavaScript                 51 mins         ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+JSON                       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+TypeScript                 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Markdown                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Nginx configuration file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
