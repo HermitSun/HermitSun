@@ -4,11 +4,15 @@
 
 ### Brief Introduction
 
-- Postgraduate of Tsinghua University, working on data provenance
+- Postgraduate of Tsinghua University, 2021-now
+  
+  School of Software, Tsinghua University, Beijing, China
 
-- Graduated from Nanjing University with B.E.
+- Bachelor of Software Engineering, 2017-2021
+  
+  Software Institute, Nanjing University, Nanjing, China
 
-- Deep learning framwork, C++, Python, Vue.js
+- Data Provenance, Deep Learning Framwork, C++, Python, Vue.js
 
 ### Status
 
