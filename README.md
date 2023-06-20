@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 mins          ██████████████████▓░░░░░░   74.83 %
-Vue.js     2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
-Git        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
