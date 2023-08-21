@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js                     31 mins         ███████████████▓░░░░░░░░░   62.21 %
-Nginx configuration file   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-JSON                       6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-JavaScript                 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Markdown                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Go   1 hr 40 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
