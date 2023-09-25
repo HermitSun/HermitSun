@@ -12,7 +12,15 @@
   
   Software Institute, Nanjing University, Nanjing, China
 
-- Data Provenance, Deep Learning Framwork, C++, Python, Vue.js
+- Research Interests:
+  - LLM
+  - ML System
+  - Data Provenance
+
+- Skills:
+  - Python
+  - C++
+  - Vue.js
 
 ### Status
 
