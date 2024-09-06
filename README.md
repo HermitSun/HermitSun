@@ -4,7 +4,7 @@
 
 ### Brief Introduction
 
-- Postgraduate of Tsinghua University, 2021-now
+- Postgraduate of Tsinghua University, 2021-2024
   
   School of Software, Tsinghua University, Beijing, China
 
@@ -13,12 +13,12 @@
   Software Institute, Nanjing University, Nanjing, China
 
 - Research Interests:
-  - LLM
-  - ML System
+  - MLSys
   - Data Provenance
 
 - Skills:
   - Python
+  - Golang
   - C++
   - Vue.js
 
