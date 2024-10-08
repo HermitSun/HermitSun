@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         48 mins         █████████████▓░░░░░░░░░░░   54.15 %
-JavaScript   26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-JSON         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
