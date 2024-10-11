@@ -4,7 +4,7 @@
 
 ### Brief Introduction
 
-- Postgraduate of Tsinghua University, 2021-2024
+- Master of Software Engineering, 2021-2024
   
   School of Software, Tsinghua University, Beijing, China
 
