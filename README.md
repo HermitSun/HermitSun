@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 7 mins     █████████████████████▓░░░   86.04 %
-JSON     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Text     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
